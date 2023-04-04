@@ -1,0 +1,30 @@
+
+body  
+{
+    background-color:aliceblue;
+}
+h2{
+    color:darkcyan;
+    font-family: emoji;
+}
+h3 {
+    text-align: center;
+    color:darkcyan;
+}
+hr {
+    border: solid;
+    background-color: rgb(240, 249, 249);
+    border-style: none;
+    border-top: dotted;
+    border-color: powderblue;
+    border-width: 4px;
+    height: 0px;
+    width: 50%;
+}
+li,a{
+    font: italic small-caps bold 16px/2 cursive;
+}
+td,tr{
+    font: italic small-caps bold 16px/2 cursive;
+
+}
